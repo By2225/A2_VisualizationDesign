@@ -4,3 +4,4 @@ Assignment 2: Visualization Design for Intro to Data Visualization
 Teammates: Brian Yang, Janill Lema, Hussein Fardous, and Lily He 
 
 # Final Visualization
+![alt text](https://github.com/By2225/A2_VisualizationDesign/blob/master/template.JPG)
